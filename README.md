@@ -9,7 +9,21 @@
 
 # 使用說明
 
+## 控制模式
+### 手動模式(MAN)
 
+手動控制閥開度(OP)：0 ~ 100%(閥全開)，以調整槽內液體累積量
+
+PV：液位值
+OP增加,PV下降
+
+
+### 自動模式(AUTO)
+
+輸入設定點(SP)以控制液位在固定值
+自動動控制閥開度(OP)：0 ~ 100%(閥全開)，以調整槽內液體累積量
 
 
 # 安裝須知
+
+1. 確認電腦已安裝[**Microsoft .NET Framework**](https://www.microsoft.com/zh-tw/download/details.aspx?id=30653)
