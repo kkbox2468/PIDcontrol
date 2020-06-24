@@ -27,3 +27,4 @@ OP增加，PV下降
 # 安裝須知
 
 1. 確認電腦已安裝[**Microsoft .NET Framework**](https://www.microsoft.com/zh-tw/download/details.aspx?id=30653)
+2. 下載[**PIDcontrol.exe**](https://github.com/kkbox2468/PIDcontrol/blob/master/PIDcontrol/bin/Debug/PIDcontrol.exe)
